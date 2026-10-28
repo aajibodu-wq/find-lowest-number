@@ -8,3 +8,4 @@ Test cases:
 1. Ten numbers — expects `-12.0`
 2. One number — expects `42.0`
 3. Blank input — expects `No numbers found in file`
+Automated workflow verification.
